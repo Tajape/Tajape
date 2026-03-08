@@ -6,7 +6,7 @@ Atualmente na **OFM Systems**, sempre em evolução e buscando escrever código 
 ## Sobre mim
 
 - 💼 Trabalhando como Fullstack Developer na **OFM Systems**
-- 📚 Estudando constantemente e melhorando minhas habilidades
+- 📚 Técnico em programação na **FAN TECH**
 - 🎯 Focado em **performance**, **boas práticas** e **código que escala**
 
 ## Tecnologias
