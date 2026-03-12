@@ -1,7 +1,7 @@
 # Olá, eu sou Jhonatan Henrique 👋
 
 **Desenvolvedor Fullstack** apaixonado por construir aplicações web e mobile que resolvem problemas reais.  
-Atualmente na **OFM Systems**, sempre em evolução e buscando escrever código mais limpo a cada dia.
+Trabalhando atualmente na **OFM Systems**, sempre em evolução e buscando escrever código mais limpo a cada dia.
 
 ## Sobre mim
 
